@@ -1,2 +1,2 @@
 # sw_study
-  - sw study 복노트입니다. :)
+  - sw study 복습노트입니다. :)
