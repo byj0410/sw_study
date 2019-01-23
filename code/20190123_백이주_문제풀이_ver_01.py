@@ -5,7 +5,8 @@
 # [output] boolean
 # Hint: arr[::-1]
 
-def is_palindrome(string):
+# False A
+def is_palindrome1(string):
 
     i=0
 
@@ -26,7 +27,7 @@ def is_palindrome(string):
 
 # A2
 def is_palindrome(string):
-    return string == sting[::-1]
+    return string == string[::-1]
 
 # A3 [C언어 방법]
 def is_palindrome(string):
